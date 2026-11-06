@@ -1,4 +1,7 @@
+![CI](https://github.com/Tihobro/pr/actions/workflows/ci.yml/badge.svg)
+
 # pr
+
 Учебный репозиторий для отработки навыков работы с Git и GitHub.
 Выполнила: Надежда Одинцова (TihoBro)
 
